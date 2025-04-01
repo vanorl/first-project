@@ -127,4 +127,4 @@ class OnlineSalesRegisterCollector:
             date_and_time.append(f'{interval[0]}: {interval[1](now)}')
 
         return date_and_time
-
+#ну да, ну да
